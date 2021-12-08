@@ -19,7 +19,7 @@ The dataset we are using is the data of past loan applicants through the time pe
 
 
 
-Conclusions: 
+## Conclusions: 
 1.The defaulters are increased when the term of repaying the loans increases.
 2.The defaulters are increases when the annual incomeof the customers is less.
 3.The defaulters increases when the interest rates are increased.
@@ -32,5 +32,5 @@ Numpy
 Pandas
 Matplotlib
 Seaborn
- Contact
+## Contact
 Created by [@vennesh@github.com,Rajeshdraksharapu@github.com]
